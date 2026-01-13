@@ -1,1 +1,1 @@
-package in.soft.factory;
+package in.soft.entity;
